@@ -14,8 +14,6 @@ greeting_with_name = "My name is "+name+", but sometimes online I go by "+alias+
 # I'm 28 years old.
 the_year = 2023
 my_age = 28
-# which, for fun's sake, makes half my age: 14
-half_my_age = my_age/2
 greeting_age = " The year is "+str(the_year)+". I\'m "+str(my_age)+" years old."
 #print(greeting_age)
 
